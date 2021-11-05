@@ -25,7 +25,7 @@ public class EjemploString{
 
         System.out.println("Leer entrada ingresada Numero:");
         String numero = scanner.next();
-        System.out.println("<numero ingresado>:"+ numero);
+        System.out.println("Numero ingresado:"+ numero);
 
         scanner.close();
 
