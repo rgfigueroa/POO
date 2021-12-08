@@ -32,6 +32,7 @@ public class persona {
     }
     public void setNombre(String nombreNuevo){
         this.nombre = nombreNuevo;
-    }
+    }    
+
   
 }
