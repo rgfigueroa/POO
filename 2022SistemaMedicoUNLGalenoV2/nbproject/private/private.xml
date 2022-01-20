@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Controlador/ContralorMedico.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Controlador/ControladorPersona.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Modelo/Persona.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Modelo/Medicamento.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Controlador/ControladorCitaMedica.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Modelo/CitaMedica.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Vista/Login.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Controlador/ControladorSecretaria.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Modelo/Paciente.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Vista/Main.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Vista/Principal.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Modelo/Medico.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Modelo/InterfaceTurno.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Modelo/Secretaria.java</file>
+            <file>file:/Users/roberth/NetBeansProjects/2022SistemaMedicoUNLGaleno/src/Vista/VentanaCitaMedica.java</file>
+        </group>
+    </open-files>
+</project-private>
